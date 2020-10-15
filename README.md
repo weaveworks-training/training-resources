@@ -1,0 +1,2 @@
+# Weaveworks training resources
+
